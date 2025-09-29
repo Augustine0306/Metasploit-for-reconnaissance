@@ -54,9 +54,6 @@ Type help or a question mark "?" to see the list of all available commands you c
 
 <img width="516" height="89" alt="image" src="https://github.com/user-attachments/assets/199c5add-5d60-4748-ae17-52075a6c70e3" />
 
-### search 
-
-
 ### info
 
 <img width="826" height="766" alt="image" src="https://github.com/user-attachments/assets/b7f74d3b-adf5-4fb5-a9e3-3bce5796fe3e" />
